@@ -1,7 +1,11 @@
 a:hover{
-    color: green;
+    color: red;
 }
 
-#main-content:hover{
-    background: pink;
+a:active{
+    color: orange;
+}
+
+a:visited{
+    color: purple;
 }
