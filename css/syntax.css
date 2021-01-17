@@ -1,11 +1,11 @@
-#header h1{
-    color:salmon;
+a{
+    color:tan;
+    text-decoration: none;
+    font-weight: bold;
 }
 
-#header h2{
-    color:slateblue;
-}
-
-#header{
-    background-color:springgreen;
+a:hover{
+    color:whitesmoke;
+    text-decoration: underline;
+    background-color:yellowgreen;
 }
