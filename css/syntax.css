@@ -1,8 +1,12 @@
-h1{
-    font-weight: bolder;
+#header p{
+    text-transform: capitalize;
+}
+
+body{
+    text-transform: uppercase;
 }
 
 
-p{
-    font-weight: 500;
+body > p{
+    text-transform: lowercase;
 }
